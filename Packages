@@ -1,0 +1,13 @@
+Package: com.Xevikan.hotAF
+Name: HotAF
+Version: 1.0.0
+Size: 16410
+Architecture: iphoneos-arm
+Description: It's hot as balls!
+Maintainer: X3vikan <x3vikan@gmail.com>
+Author: X3vikan <x3vikan@gmail.com>
+Section: Tweaks
+MD5sum: b1eb70da0f50d35b5039af07f26dc342
+SHA1sum: 2b0c888b3480d38d479462dc6ec5d5e648fb2864
+SHA256sum: 9826821bbe0d4798484382b9d640fc8e826415153ab24c0c6afa3d07ce5dd7ec
+Filename: debs//com.Xevikan.hotAF_1.0.0_iphoneos-arm.deb
