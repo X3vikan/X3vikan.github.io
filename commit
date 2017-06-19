@@ -1,4 +1,4 @@
-git pull <remote> master:dev
+git pull https://github.com/X3vikan/X3vikan.github.io.git master
 git add --all
 git commit -m "Init"
 git push
