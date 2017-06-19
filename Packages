@@ -12,3 +12,17 @@ Description: It's hot as fucking balls around here!
 Name: hotAF
 Author: Xevikan
 
+Package: com.Xevikan.immortal
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Xevikan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.Xevikan.immortal_1.0.0_iphoneos-arm.deb
+Size: 3558
+Installed-Size: 120
+MD5sum: 0ad5543d74ba5ae1f751082dd4b0f9bb
+Description: HAL 2.0
+Name: I'm Immortal
+Author: Xevikan
+
