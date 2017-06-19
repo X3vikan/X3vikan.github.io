@@ -1,13 +1,13 @@
 Package: com.Xevikan.hotAF
-Version: 1.0.0
+Version: 1.0.2
 Section: Tweaks
 Maintainer: Xevikan
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.Xevikan.hotAF_1.0.0_iphoneos-arm.deb
-Size: 16410
+Filename: debs//com.Xevikan.hotAF_1.0.2_iphoneos-arm.deb
+Size: 16610
 Installed-Size: 152
-MD5sum: b1eb70da0f50d35b5039af07f26dc342
+MD5sum: 2a0319a9ad0200a0a269a8e6e9883e04
 Description: It's hot as fucking balls around here!
 Name: hotAF
 Author: Xevikan
