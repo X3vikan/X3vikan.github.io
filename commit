@@ -1,3 +1,4 @@
+git pull <remote> master:dev
 git add --all
 git commit -m "Init"
 git push
